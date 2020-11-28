@@ -188,14 +188,14 @@ void print()
 	cout<<"*\n";
 	cout<<"Player A Score: "<<countA<<" Player B Score: "<<countB<<endl;
 	cout<<"Total Score:"<<boxCount<<endl; 
-	for(int i=0;i<9;i++){
+	/*for(int i=0;i<9;i++){
 		cout<<bset[i].getstatus()<<" ";
 	}
 	cout<<endl;
 	for(int i=0;i<24;i++){
 		cout<<eset[i].ebelong<<" ";
 	}
-	cout<<endl;
+	cout<<endl;*/
 }
 void allBoxCheck(){
 	int tempcount=0;
